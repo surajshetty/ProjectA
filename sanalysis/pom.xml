@@ -41,6 +41,13 @@
         <module>sanalysis-interfaces</module>
         <module>sanalysis-models</module>
     </modules>
+<scm>
+
+    <connection>https://github.com/surajshetty/ProjectA.git</connection>
+    <developerConnection>https://github.com/surajshetty/ProjectA.git</developerConnection>
+    <tag></tag>
+    <url></url>
+</scm>
 
     <!-- Snapshot repository for Jersey -->
     <repositories>
